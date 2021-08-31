@@ -89,54 +89,6 @@
             "cardName": "Bank of India TAJ Premium Credit Card",
             "cardCategory": "Cobranded",
             "cardType": "Credit"
-        },
-        {
-            "providerName": "SBI",
-            "cardName": "Bank of Maharashtra SBI Platinum Credit Card",
-            "cardCategory": "Platinum",
-            "cardType": "Credit"
-        },
-        {
-            "providerName": "BOB",
-            "cardName": "BOB Corporate Premium Credit Card",
-            "cardCategory": "Corporate",
-            "cardType": "Credit"
-        },
-        {
-            "providerName": "BOB",
-            "cardName": "BOB Platinum Assure Credit Card",
-            "cardCategory": "Platinum",
-            "cardType": "Credit"
-        },
-        {
-            "providerName": "BOB",
-            "cardName": "BOB Platinum Master Credit Card",
-            "cardCategory": "Platinum",
-            "cardType": "Credit"
-        },
-        {
-            "providerName": "BOB",
-            "cardName": "BOB Platinum Visa Credit Card",
-            "cardCategory": "Platinum",
-            "cardType": "Credit"
-        },
-        {
-            "providerName": "BOB",
-            "cardName": "BOB Signature Visa Credit Card",
-            "cardCategory": "Signature",
-            "cardType": "Credit"
-        },
-        {
-            "providerName": "BO4",
-            "cardName": "BOB Titanium Master Credit Card",
-            "cardCategory": "Titanium",
-            "cardType": "Credit"
-        },
-        {
-            "providerName": "Canara Bank",
-            "cardName": "Canara Bank Classic Visa Credit Card",
-            "cardCategory": "Classic",
-            "cardType": "Credit"
         }
     ]
 }
